@@ -42,4 +42,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## AUTHORS INFORMATION
 
-Email - [Victoria Musyoka] (victoria.musyoka@student.moringaschool.com))
+Email -  (victoria.musyoka@student.moringaschool.com)
+
+

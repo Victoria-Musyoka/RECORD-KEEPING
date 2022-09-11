@@ -12,6 +12,7 @@ The details about the storage facility is also available
  the user is able to make styling ideas to the project using the css
 
  -RUBY for the backend
+enables the user to run the program with less hassle.
 
  -REACT for the frontend
 

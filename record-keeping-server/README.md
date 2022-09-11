@@ -20,9 +20,10 @@ This is a project based on shopping, where the user is able to comment on the se
 ## Installation Process
 -Clone to this repo : git clone (https://github.com/Victoria-Musyoka/RECORD-KEEPING)
 
--Unzip the downloaded files in a folder of choice.
-
 -Open the index file from the zipped file with any browser.
+ -Unzip the downloaded files in a folder of interest
+
+
 
 ## Live Link
 

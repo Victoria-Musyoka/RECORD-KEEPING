@@ -1,7 +1,7 @@
 # RECORD-KEEPING APPLICATION
 ## Project Description
 <!-- This is a project based on shopping, where the user is able to comment on the services provided which will be stored in the  Also, they are able to buy the item provided. This application also enables the user to view the items on the homepage. Contact information is also provided to contact the owner. -->
-This is a project based on record keeping, where you can as a user be able to view the items available and be able to add items in the stock.
+This is a project based on record keeping, where you can as a user be able to view the items available and be able to add items in the stock. the user is also able to delete the items available
 ## ScreenShot
 
 

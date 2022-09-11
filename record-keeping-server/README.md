@@ -9,6 +9,7 @@ The details about the storage facility is also available
 ## Technologies Used
  
  -CSS- which was used to style the user interface.
+ the user is able to make styling ideas to the project using the css
 
  -RUBY for the backend
 

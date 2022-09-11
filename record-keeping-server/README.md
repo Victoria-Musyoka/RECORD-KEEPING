@@ -15,6 +15,7 @@ The details about the storage facility is also available
 enables the user to run the program with less hassle.
 
  -REACT for the frontend
+ the designs provided by React are automatically generated.
 
  
 

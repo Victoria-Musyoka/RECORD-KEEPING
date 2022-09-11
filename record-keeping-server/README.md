@@ -18,7 +18,7 @@ This is a project based on shopping, where the user is able to comment on the se
 
 
 ## Installation Process
--Clone to this repo : git clone (https://github.com/Victoria-Musyoka/Shopping-app)
+-Clone to this repo : git clone (https://github.com/Victoria-Musyoka/RECORD-KEEPING)
 
 -Unzip the downloaded files in a folder of choice.
 
